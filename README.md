@@ -33,14 +33,18 @@ To start a new section:
 | Tool  | Description | License
 | :---- | :------     | :-----
 | [cowrie](https://github.com/cowrie/cowrie) |  Cowrie SSH/Telnet Honeypot | Custom License
-| 
+| | | 
 
 ## Reverse Engineering
+| Tool  | Description | License
+| :---- | :------     | :-----
 | [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Software Reverse Engineering (SRE) framework | Apache-2.0 license
 | [radare2](https://github.com/radareorg/radare2) |  UNIX-like reverse engineering framework and command-line toolset  | LGPL-3.0 and GPL-3.0 licenses
 
 
 ## Incident Response
+| Tool  | Description | License
+| :---- | :------     | :-----
 | [RITA (Real Intelligence Threat Analytics)](https://github.com/activecm/rita) |  Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | GPL-3.0 license
 
 ## Examples
