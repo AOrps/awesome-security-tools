@@ -47,5 +47,12 @@ To start a new section:
 | :---- | :------     | :-----
 | [RITA (Real Intelligence Threat Analytics)](https://github.com/activecm/rita) |  Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | GPL-3.0 license
 
+## Online Resources
+| Tool | Description 
+| :---: | :-----
+| [MXToolbox](https://mxtoolbox.com/) | _TODO_
+| [BlacklistMaster](https://www.blacklistmaster.com/) | _TODO_
+| [urlscan.io](https://urlscan.io/) | _TODO_
+
 ## Examples
 - Know how to use a tool? Show off by creating a directory and a knowledge 
